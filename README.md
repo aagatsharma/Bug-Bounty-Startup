@@ -24,6 +24,7 @@
          * Bug bounty hunting essential
          * Hacker playbook(1,2,3)
      * Writeups ( read this daily)
+         * https://github.com/bminossi/AllVideoPocsFromHackerOne (Hackerone reports)
          * https://pentester.land/list-of-bug-bounty-writeups.html
          * https://hackerone.com/hacktivity
          * https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
