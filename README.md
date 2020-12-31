@@ -37,11 +37,11 @@
 7. Search until you find that bug.
 
 8. Automation/tools about that bug.
-      * Tools
-         • https://github.com/aagatsharma/My-Bug-Hunting-Tools/blob/main/README.md
-      * Payloads
-         • https://github.com/swisskyrepo/PayloadsAllTheThings
-         • Find more on google. 
+     * Tools
+        • https://github.com/aagatsharma/My-Bug-Hunting-Tools/blob/main/README.md
+     * Payloads
+        • https://github.com/swisskyrepo/PayloadsAllTheThings
+        • Find more on google. 
 
 9. Repeat from step0 but choose another bug in step1.
 
