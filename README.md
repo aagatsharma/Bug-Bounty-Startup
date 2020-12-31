@@ -50,10 +50,10 @@
 
 10. Repeat from step0 but choose another bug in step1.
 
-11. Lean how to write good reports.
-        * https://www.youtube.com/watch?v=z60CFFFyZWE 
-        * https://medium.com/swlh/how-to-write-a-better-vulnerability-report-20163ab913fb 
-        * https://www.youtube.com/watch?v=Z34_ubcWljo 
+11. Learn how to write good reports.
+     * https://www.youtube.com/watch?v=z60CFFFyZWE
+     * https://medium.com/swlh/how-to-write-a-better-vulnerability-report-20163ab913fb
+     * https://www.youtube.com/watch?v=Z34_ubcWljo
         
 12. Develop your own methodology when you’ll find bugs.
 
