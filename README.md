@@ -18,20 +18,22 @@
 
 5. Read book/writeup/cheatsheet.
      * Books(dont learn all, use as reference)
-         -> Web app hackers handbook
-         -> Web hacking 101 
-         -> Real world bug hunting
-         -> Bug bounty hunting essential
-         -> Hacker playbook(1,2,3)
+         * Web app hackers handbook
+         * Web hacking 101 
+         * Real world bug hunting
+         * Bug bounty hunting essential
+         * Hacker playbook(1,2,3)
      * Writeups ( read this daily)
-         -> https://pentester.land/list-of-bug-bounty-writeups.html
-         -> https://hackerone.com/hacktivity
-         -> https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
-         -> https://medium.com/bugbountywriteup/tagged/bug-bounty
-         -> https://vickieli.medium.com/
+         * https://pentester.land/list-of-bug-bounty-writeups.html
+         * https://hackerone.com/hacktivity
+         * https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+         * https://medium.com/bugbountywriteup/tagged/bug-bounty
+         * https://vickieli.medium.com/
      * Cheatsheet
-         -> https://github.com/EdOverflow/bugbounty-cheatsheet
-         -> https://github.com/KathanP19/HowToHunt
+         * https://github.com/EdOverflow/bugbounty-cheatsheet
+         * https://github.com/KathanP19/HowToHunt
+     * POC
+         * https://youtube.com/playlist?list=PLy2KB5xVVeNBQemKePSmXcNvOMqtRhhkd
 
 6. Follow hackers on twitter and ask them anything you don’t understand.(jhaddix , todayisnew, nahamsec , cybermentor, hakluke , etc)— follow their following.
 
@@ -41,10 +43,10 @@
 
 9. Automation/tools about that bug.
      * Tools
-        -> https://github.com/aagatsharma/My-Bug-Hunting-Tools/blob/main/README.md
+        * https://github.com/aagatsharma/My-Bug-Hunting-Tools/blob/main/README.md
      * Payloads
-        -> https://github.com/swisskyrepo/PayloadsAllTheThings
-        -> Find more on google. 
+        * https://github.com/swisskyrepo/PayloadsAllTheThings
+        * Find more on google. 
 
 10. Repeat from step0 but choose another bug in step1.
 
