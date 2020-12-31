@@ -39,27 +39,27 @@
 
 8. Try to increase severity of bug , if you are newbie report the bug first. 
 
-8. Automation/tools about that bug.
+9. Automation/tools about that bug.
      * Tools
         -> https://github.com/aagatsharma/My-Bug-Hunting-Tools/blob/main/README.md
      * Payloads
         -> https://github.com/swisskyrepo/PayloadsAllTheThings
         -> Find more on google. 
 
-9. Repeat from step0 but choose another bug in step1.
+10. Repeat from step0 but choose another bug in step1.
 
-10. Lean how to write good reports.
-        -> https://www.youtube.com/watch?v=z60CFFFyZWE
-        -> https://medium.com/swlh/how-to-write-a-better-vulnerability-report-20163ab913fb
-        -> https://www.youtube.com/watch?v=Z34_ubcWljo
-        *
-11. Develop your own methodology when you’ll find bugs.
+11. Lean how to write good reports.
+        * https://www.youtube.com/watch?v=z60CFFFyZWE
+        * https://medium.com/swlh/how-to-write-a-better-vulnerability-report-20163ab913fb
+        * https://www.youtube.com/watch?v=Z34_ubcWljo
+        
+12. Develop your own methodology when you’ll find bugs.
 
-12. Learn bash or python.
+13. Learn bash or python.
 
-13. Create your own tools. 
+14. Create your own tools. 
 
-14. Never give up learning
+15. Never give up learning
 
           
 More reference on how to start : 
