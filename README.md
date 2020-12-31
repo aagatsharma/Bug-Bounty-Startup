@@ -1,11 +1,11 @@
 # Bug-Bounty-Startup
 
-0. Read owasp top 10 and choose any bug
-
-1. Recon
+0. Recon
      * https://github.com/vitalysim/totalrecon
      * jhaddix methodology(youtube)
      * rohit gautam recon(udemy)
+
+1. Read owasp top 10 and choose any bug
 
 2. Watch videos on that particular bug
      * Bug hunting offensive approach 
