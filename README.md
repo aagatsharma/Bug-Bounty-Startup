@@ -45,15 +45,15 @@
      * Tools
         * https://github.com/aagatsharma/My-Bug-Hunting-Tools/blob/main/README.md
      * Payloads
-        * https://github.com/swisskyrepo/PayloadsAllTheThings
+        * https://github.com/swisskyrepo/PayloadsAllTheThings 
         * Find more on google. 
 
 10. Repeat from step0 but choose another bug in step1.
 
 11. Lean how to write good reports.
-        * https://www.youtube.com/watch?v=z60CFFFyZWE
-        * https://medium.com/swlh/how-to-write-a-better-vulnerability-report-20163ab913fb
-        * https://www.youtube.com/watch?v=Z34_ubcWljo
+        * https://www.youtube.com/watch?v=z60CFFFyZWE 
+        * https://medium.com/swlh/how-to-write-a-better-vulnerability-report-20163ab913fb 
+        * https://www.youtube.com/watch?v=Z34_ubcWljo 
         
 12. Develop your own methodology when you’ll find bugs.
 
